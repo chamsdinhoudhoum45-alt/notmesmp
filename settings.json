@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "chfengaSMP.aternos.me ",
+    "ip": "chfengaSMP.aternos.me",
     "port": 39620,
     "version": "1.20.1",
     "try-creative": false
