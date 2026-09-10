@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Itsmebot",
+    "username": "noobplayer",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "chfengaSMP.aternos.me",
     "port": 39620,
-    "version": "1.20.11",
+    "version": "1.20.1",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a bot",
-        "Subscribe to Chamsdin_gaming!",
-        
+        "I'm a noob",
+        "Subscribe to Chamsdin_Gaming!",
+        "for shop type /ah"
       ]
     },
     "chat-log": true,
@@ -65,7 +65,7 @@
     "console-commands": true
   },
   "combat": {
-    "attack-mobs": false,
+    "attack-mobs": true,
     "auto-eat": true
   },
   "beds": {
